@@ -42,7 +42,7 @@ $ pnpm dev
 根目錄
   ├── src                              # 主要原始碼目錄
   |   └── api                          # express api 路由
-  |     ├── public                     # 前端靜態資源
-  |     └── views                      # ejs 頁面
+  |   ├── public                       # 前端靜態資源
+  |   └── views                        # ejs 頁面
   └── app                              # node server 主程式
 ```
